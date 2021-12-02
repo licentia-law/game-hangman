@@ -1,7 +1,7 @@
 import csv, random, winsound
 from time import sleep
 
-# declare the number of chance and guess bowl
+# declare the number of chances and guess bowl
 turns = 5  # chance
 guesses = ""  # history of guesses
 
