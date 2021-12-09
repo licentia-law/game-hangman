@@ -1,6 +1,8 @@
 # README
 This is my personal project to learn python.
+
 This project referenced an introductory Python course on the Infrun site.
+
 https://www.inflearn.com/
 
 # Update
